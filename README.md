@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ugandhar-sist
+- 👋 Hi, I’m Vaddi Ugandhar 
 - 👀 I’m interested in Chip Manufacturing 
 - 🌱 I’m currently learning VLSI
 - 💞️ I’m looking to collaborate on Projects 
