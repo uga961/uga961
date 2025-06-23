@@ -8,7 +8,7 @@
 
 ![Ugandhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uga961&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uga961&layout=compact&theme=radical)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=uga961&layout=compact&theme=radical)
 
 
 <!---
