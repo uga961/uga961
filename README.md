@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects 
 - 📫 How to reach me - mail to: annajiratnam@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I drink more coffee than water in the mornings 
+- ⚡ Fun fact: I drink more coffee than water in the mornings
 
 ![Ugandhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uga961&show_icons=true&theme=radical)
 
