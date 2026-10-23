@@ -36,6 +36,7 @@ I explore how things work — from transistor-level circuit design to embedded s
 
 
 </div>
+
 ---
 
 ## About Me
