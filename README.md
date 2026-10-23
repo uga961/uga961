@@ -9,11 +9,11 @@
 
 # VADDI UGANDHAR
 
-### `Electronics Engineer` · `Developer` · `Research Enthusiast`
+### `Electronics Engineer` · `Developer` · `Research Enthusiast` . `Data Scientist`
 
-**Building at the intersection of silicon, software, and intelligent systems.**
+**Building at the intersection of silicon, software, data, and intelligent systems.**
 
-I explore how things work — from transistor-level circuit design to embedded systems, AI-powered applications, and software tools that solve real problems.
+I explore how things work — from transistor-level circuit design to embedded systems, AI-powered applications, Data analysis, and software tools that solve real problems.
 
 <p>
   <a href="https://github.com/uga961">
@@ -32,7 +32,7 @@ I explore how things work — from transistor-level circuit design to embedded s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:164e63,100:312e81&height=3&section=header" width="100%" alt=""/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+VLSI+%26+CMOS+Design;Building+Embedded+Systems;Developing+Software+That+Solves+Problems;Learning%2C+Building%2C+Documenting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+VLSI+%26+CMOS+Design;Data+Science; Data+Analytics;Building+Embedded+Systems;Developing+Software+That+Solves+Problems;Learning%2C+Building%2C+Documenting)](https://git.io/typing-svg)
 
 </div>
 
@@ -66,21 +66,11 @@ My approach is simple: understand the problem, build a solution, test it, improv
 
 <img src="https://streak-stats.demolab.com?user=uga961&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uga961&theme=tokyonight" width="100%" alt="GitHub profile summary"/>
 
 </div>
 
 > These are dynamically generated cards. Counts, language breakdowns, and streaks can differ depending on the service's data coverage, caching, and calculation rules. GitHub does not count every private contribution or every commit in the same way across all widgets.
 
-## Contribution Activity
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=uga961&theme=tokyo-night&hide_border=true&area=true)](https://github.com/uga961)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=uga961&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## Engineering Interests
 
@@ -157,39 +147,32 @@ Circuit-level experiments involving CMOS inverters, digital logic, SRAM cells, a
 
 **Focus:** CMOS design, transistor behavior, digital electronics, and circuit simulation.
 
-[![Explore VLSI Projects](https://img.shields.io/badge/Explore-VLSI%20Repositories-7C3AED?style=flat-square&logo=github)](https://github.com/uga961?tab=repositories)
+[![Explore VLSI Projects](https://img.shields.io/badge/Explore-VLSI%20Repositories-7C3AED?style=flat-square&logo=github)](https://github.com/uga961/Final_Year_Project)
 
-### 03. Li-Fi Audio Transmission
 
-An optical wireless communication project exploring audio transmission using light, with a focus on signal clarity, distortion, latency, and transmission distance.
-
-**Focus:** Optical communication, signal processing, electronics, and experimental validation.
-
-[![Explore Projects](https://img.shields.io/badge/Explore-Project%20Repositories-0F766E?style=flat-square&logo=github)](https://github.com/uga961?tab=repositories)
-
-### 04. Safety Radar System
+### 03. Safety Radar System
 
 An Arduino-based prototype using an ultrasonic sensor and servo motor to scan surroundings and visualize detected objects.
 
 **Focus:** Arduino, sensor interfacing, servo control, and Processing-based visualization.
 
-[![Explore Projects](https://img.shields.io/badge/Explore-Embedded%20Projects-B45309?style=flat-square&logo=github)](https://github.com/uga961?tab=repositories)
+[![Explore Projects](https://img.shields.io/badge/Explore-Embedded%20Projects-B45309?style=flat-square&logo=github)](https://github.com/uga961/Safety-radar)
 
-### 05. Plant Disease Detection
+### 04. Plant Disease Detection
 
 A computer vision project exploring an ensemble approach combining DenseNet and Xception for plant disease classification.
 
 **Focus:** Deep learning, image classification, computer vision, and model evaluation.
 
-[![Explore Projects](https://img.shields.io/badge/Explore-AI%20Projects-DB2777?style=flat-square&logo=github)](https://github.com/uga961?tab=repositories)
+[![Explore Projects](https://img.shields.io/badge/Explore-AI%20Projects-DB2777?style=flat-square&logo=github)](https://github.com/uga961/Image-Based-Plant-Disease-Classification-and-Fertilizer-Guidance)
 
-### 06. SpecMap — Competitive Intelligence
+### 05. SpecMap — Competitive Intelligence (Private Repo)
 
 A project exploring how AI-assisted workflows can support competitive intelligence and structured analysis.
 
 **Focus:** AI integration, research workflows, and agent-based software systems.
 
-[![Explore My Repositories](https://img.shields.io/badge/Explore-Software%20Projects-475569?style=flat-square&logo=github)](https://github.com/uga961?tab=repositories)
+[![Explore My Repositories](https://img.shields.io/badge/Explore-Software%20Projects-475569?style=flat-square&logo=github)](https://github.com/uga961/SpecMap)
 
 ---
 
@@ -222,26 +205,6 @@ Engineering is not just about writing code or designing circuits. It is also abo
 - **Experimentation:** Building prototypes, testing ideas, and learning from failures.
 - **Continuous learning:** Strengthening fundamentals while exploring new engineering fields.
 
-## Latest Work & Commit History
-
-Want to see what I have actually been working on? Use the links below to inspect the real repository history instead of relying only on summary cards.
-
-<div align="center">
-
-<a href="https://github.com/uga961?tab=repositories">
-  <img src="https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"/>
-</a>
-<a href="https://github.com/uga961?tab=overview&from=2026-01-01&to=2026-12-31">
-  <img src="https://img.shields.io/badge/Contribution%20History-238636?style=for-the-badge&logo=github&logoColor=white" alt="Contribution history"/>
-</a>
-<a href="https://github.com/uga961/StayActive/commits">
-  <img src="https://img.shields.io/badge/StayActive%20Commits-2563EB?style=for-the-badge&logo=git&logoColor=white" alt="StayActive commits"/>
-</a>
-
-</div>
-
-For a live activity visualization, the contribution graph above summarizes activity across your GitHub account. For exact commit messages, dates, and diffs, the repository's **Commits** page is the authoritative source.
-
 ## Writing & Documentation
 
 I also maintain a personal blog where I document projects, technical learning, experiences, and ideas in my own words.
@@ -271,6 +234,9 @@ I also maintain a personal blog where I document projects, technical learning, e
 </a>
 <a href="https://www.instagram.com/ugandhar_961/">
   <img src="https://img.shields.io/badge/Instagram-ugandhar__961-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@uga961">
+  <img src="https://img.shields.io/badge/YouTube-Ugandhar_Vaddi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 </div>
