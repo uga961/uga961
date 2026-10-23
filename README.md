@@ -34,6 +34,7 @@ I explore how things work — from transistor-level circuit design to embedded s
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Exploring+VLSI+%26+CMOS+Design;Data+Science+%26+Data+Analytics;Building+Embedded+Systems;Developing+Software+That+Solves+Problems;Learning%2C+Building%2C+Documenting)](https://git.io/typing-svg)
 
+
 </div>
 ---
 
