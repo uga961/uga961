@@ -9,7 +9,7 @@
 
 # VADDI UGANDHAR
 
-### `Electronics Engineer` · `Developer` · `Research Enthusiast` . `Data Scientist`
+### `Data Scientist` · `Electronics Engineer` . `Developer` · `Research Enthusiast`
 
 **Building at the intersection of silicon, software, data, and intelligent systems.**
 
@@ -69,8 +69,6 @@ My approach is simple: understand the problem, build a solution, test it, improv
 
 
 </div>
-
-> These are dynamically generated cards. Counts, language breakdowns, and streaks can differ depending on the service's data coverage, caching, and calculation rules. GitHub does not count every private contribution or every commit in the same way across all widgets.
 
 
 ## Engineering Interests
