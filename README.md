@@ -19,7 +19,7 @@ I work across data science, AI-powered applications, software development, and e
   <a href="https://www.ugandhar.in">
     <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio"/>
   </a>
-  <a href="[https://github.com/uga961](https://github.com/uga961?tab=repositories)">
+  <a href="https://github.com/uga961?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://blog.ugandhar.in">
