@@ -53,15 +53,6 @@ I enjoy understanding how things work and applying that knowledge to build usefu
 
 My approach is straightforward: understand the problem, explore the data, build a solution, validate the results, and document what I learn.
 
-<div align="center">
-
-### Explore My Work
-
-| Portfolio | GitHub | Blog |
-|:---:|:---:|:---:|
-| [Projects & Experience](https://www.ugandhar.in) | [Source Code](https://github.com/uga961) | [Articles & Tutorials](https://blog.ugandhar.in) |
-
-</div>
 
 ---
 
@@ -69,127 +60,9 @@ My approach is straightforward: understand the problem, explore the data, build 
 
 <div align="center">
 
-<a href="https://github.com/uga961">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uga961&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/uga961">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uga961&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used programming languages"/>
-</a>
-
 <img src="https://streak-stats.demolab.com?user=uga961&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
 
 </div>
-
----
-
-## Featured Projects
-
-### 01. Draw2Spec — Engineering Drawing Intelligence
-
-An AI-assisted approach to extracting structured engineering information from technical drawings. The project explores how multimodal AI can interpret drawing content and turn visual information into structured data.
-
-**Key areas:**
-- Engineering drawing interpretation
-- Extraction of legends and symbols
-- Identification of connections and component relationships
-- Length and dimension information extraction
-- AI-assisted document analysis
-
-**Technologies:** Python, Google Gemini, computer vision concepts, and structured data processing.
-
-[![Draw2Spec Repository](https://img.shields.io/badge/GitHub-Draw2Spec-181717?style=flat-square&logo=github)](https://github.com/uga961/Draw2Spec)
-
----
-
-### 02. SpecMap — AI-Powered Competitive Intelligence
-
-A competitive intelligence platform designed to analyze product specifications and organize findings into structured comparisons.
-
-The workflow explores how AI agents can help process product documents, identify relevant specifications, and generate comparison matrices for research and decision-making.
-
-**Key areas:**
-- Product specification extraction
-- Competitor benchmarking
-- Structured comparison matrices
-- Document-based research workflows
-- Multi-agent orchestration
-
-**Technologies:** Python, Google Gemini, Microsoft AutoGen, and Excel-based reporting.
-
-[![SpecMap Repository](https://img.shields.io/badge/GitHub-SpecMap-181717?style=flat-square&logo=github)](https://github.com/uga961/SpecMap)
-
----
-
-### 03. StayActive — Desktop Digital Wellbeing
-
-A lightweight Windows desktop application designed to encourage healthier work habits through reminders for hydration, rest, and movement.
-
-The project focuses on creating a practical desktop companion that fits into everyday workflows without unnecessary complexity.
-
-**Key areas:**
-- Desktop application development
-- Reminder scheduling
-- User-focused interface design
-- Digital wellbeing
-- Windows application integration
-
-**Technologies:** C#, .NET, WPF.
-
-[![StayActive Repository](https://img.shields.io/badge/GitHub-StayActive-181717?style=flat-square&logo=github)](https://github.com/uga961/StayActive)
-
----
-
-### 04. McKinsey Work & Research
-
-A collection of work and project material related to research, analytics, and structured business analysis.
-
-My work has involved exploring product information, supplier research, should-cost analysis, and organizing findings to support business decisions.
-
-**Key areas:**
-- Supplier and product research
-- Should-cost analysis
-- Data organization and analysis
-- Research documentation
-- Structured reporting
-
-[![McK-work Repository](https://img.shields.io/badge/GitHub-McK--work-181717?style=flat-square&logo=github)](https://github.com/uga961/McK-work)
-
----
-
-### 05. SRAM & CMOS Circuit Design
-
-Electronics and VLSI design experiments focused on understanding transistor-level circuit behavior and memory architectures.
-
-My academic work includes CMOS circuit simulation and SRAM cell design using electronic design automation tools.
-
-**Key areas:**
-- CMOS transistor-level design
-- SRAM cell architecture
-- Schematic design and simulation
-- Digital circuit analysis
-- Circuit performance evaluation
-
-**Technologies:** Cadence Virtuoso, Verilog, and CMOS design concepts.
-
-[![VLSI Projects](https://img.shields.io/badge/GitHub-Explore%20VLSI%20Work-181717?style=flat-square&logo=github)](https://github.com/uga961?tab=repositories)
-
----
-
-### 06. Li-Fi Audio Transmission
-
-An optical wireless communication research project exploring audio transmission using visible light.
-
-The project involved building an end-to-end system and evaluating audio clarity, transmission range, and signal distortion.
-
-**Reported project results:**
-- Audio transmission over approximately 1.5–2 metres
-- More than 90% audio clarity
-- Less than 5% distortion under the tested conditions
-- Latency below 50 ms
-
-**Focus:** Optical wireless communication, analog electronics, signal transmission, and experimental evaluation.
-
-[![Explore Research Projects](https://img.shields.io/badge/GitHub-Research%20Projects-181717?style=flat-square&logo=github)](https://github.com/uga961?tab=repositories)
 
 ---
 
@@ -286,9 +159,6 @@ I believe technical growth also comes from communicating ideas, working with oth
 
 <br/>
 
-**Portfolio:** [www.ugandhar.in](https://www.ugandhar.in)  
-**Blog:** [blog.ugandhar.in](https://blog.ugandhar.in)  
-**GitHub:** [github.com/uga961](https://github.com/uga961)
 
 </div>
 
